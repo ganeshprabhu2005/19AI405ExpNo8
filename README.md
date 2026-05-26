@@ -1,6 +1,6 @@
 <h1>ExpNo 8 : Solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python</h1> 
-<h3>Name:  SHAHIN J          </h3>
-<h3>Register Number:  212223040190  </h3>
+<h3>Name:  GANESH PRABHU J          </h3>
+<h3>Register Number:  212223220023  </h3>
 <H3>Aim:</H3>
 
 <p>
